@@ -1,3 +1,14 @@
 body {
     text-align: center;
 }
+.success {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: #ccc;
+    color: #fff;
+    font-size: 40px;
+}
